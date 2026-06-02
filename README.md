@@ -90,7 +90,7 @@ FROM Preceding_rev_calc;
 - Chair generated the most revenue, a revenue of $195,620.11 and was sold 562 times
 - Leads generated through INSTAGRAM generated the most revenue, a total of $275,285.45
 - Online Payment_method, it was used 258 times
-- [Download Full report here](https://github.com/AdeoluBams/Decode_Project3/blob/main/DECODE%20LABS%20PROJECT%203%20REPORT.docx)
+- [Download Full report here]([https://github.com/AdeoluBams/Decode_Project3/blob/main/DECODE%20LABS%20PROJECT%203%20REPORT.docx](https://github.com/AdeoluBams/Decode_Project3/blob/main/DECODE%20LABS%20PROJECT%203%20REPORT.docx))
 - Full Report is also provided in the repository
 
 ## References
